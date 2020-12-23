@@ -1,3 +1,4 @@
 # StartVMOnConnect
 
-Custom role for the Windows Virtual Desktop to start VM's on user connect
+Custom role for the Windows Virtual Desktop to start VM's on user connect.
+Add your Subscription ID
